@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.14" height="36.14" viewBox="0 0 36.14 36.14"><path d="M18.07,0A18.07,18.07,0,1,1,0,18.07,18.07,18.07,0,0,1,18.07,0Z" fill="#144d92"/><path d="M12.084,15.238V10.29c0-1.182-.018-2.7-1.639-2.7C8.8,7.59,8.554,8.878,8.554,10.2v5.036H5.4V5.06h3.02V6.454H8.46a3.318,3.318,0,0,1,2.99-1.641c3.2,0,3.789,2.106,3.789,4.848v5.577Zm-8.677,0H.247V5.06h3.16V15.238h0ZM5.393,5.06H5.4ZM0,1.836A1.833,1.833,0,1,1,1.833,3.671,1.836,1.836,0,0,1,0,1.836Z" transform="translate(10.451 9.987)" fill="#efefef"/><!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script></svg>

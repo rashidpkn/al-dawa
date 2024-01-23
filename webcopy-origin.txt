@@ -1,0 +1,1648 @@
+Uri: https://adservice.google.com/ddm/fls/z/src=10626249;type=invmedia;cat=aster001;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ord=1
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\ddm\fls\z\src=10626249;type=invmedia;cat=aster001;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ord=1
+Content Type: image/gif
+
+Uri: https://adservice.google.com/ddm/fls/z/src=10626249;type=invmedia;cat=aster00;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ord=1
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\ddm\fls\z\src=10626249;type=invmedia;cat=aster00;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ord=1
+Content Type: image/gif
+
+Uri: https://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\ajax\jquery.validate\1.9\jquery.validate.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/jquery.jssocials/1.4.0/jssocials-theme-flat.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\jquery.jssocials\1.4.0\jssocials-theme-flat.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/jquery.jssocials/1.4.0/jssocials.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\jquery.jssocials\1.4.0\jssocials.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\ajax\libs\slick-carousel\1.5.9\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\ajax\libs\slick-carousel\1.5.9\fonts\slick.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\ajax\libs\slick-carousel\1.5.9\fonts\slick-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\ajax\libs\slick-carousel\1.5.9\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\ajax\libs\slick-carousel\1.5.9\fonts\slick.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\ajax\libs\slick-carousel\1.5.9\fonts\slick.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick-theme.min.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\ajax\libs\slick-carousel\1.5.9\slick-theme.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\ajax\libs\slick-carousel\1.5.9\slick.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\ajax\libs\slick-carousel\1.5.9\slick.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\ajax\libs\sweetalert\1.1.3\sweetalert.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\ajax\libs\sweetalert\1.1.3\sweetalert.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-1.11.0.min.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\jquery-1.11.0.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-migrate-1.2.1.min.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\jquery-migrate-1.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/axios@1.6.5/dist/axios.min.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\axios@1.6.5\dist\axios.min.js
+Content Type: application/javascript
+
+Uri: https://www.asterpharmacy.ae/
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\index.htm
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/A.typo3conf,,_ext,,_news,,_Resources,,_Public,,_Css,,_news-basic.css,,q1587990556+typo3temp,,_assets,,_css,,_c1a1f32f83.css,,q1636359430+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_bootstrap.min.css,,q1605431146+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_swiper.min.css,,q1605431147+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_default.css,,q1688617591+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_aos.css,,q1605431146+typo3temp,,_assets,,_css,,_styling_afc27c3ab01f92532b1f445a9acad1ab71f3aa39.css,,q1698143073+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_home.css,,q1670308886+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_home-news.css,,q1605947645,Mcc.e4I3OafKRD.css.pagespeed.cf.tf7mTeBT7V.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\A.typo3conf,,_ext,,_news,,_Resources,,_Public,,_Css,,_news-basic.css,,q1587990556 typo3temp,,_assets,,_css,,_c1a1f32f83.css,,q1636359430 typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_bootstrap.min.css,,.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/A.typo3conf,,_ext,,_news,,_Resources,,_Public,,_Css,,_news-basic.css,,q1587990556+typo3temp,,_assets,,_css,,_c1a1f32f83.css,,q1636359430+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_bootstrap.min.css,,q1605431146+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_swiper.min.css,,q1605431147+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_default.css,,q1688617591+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_aos.css,,q1605431146+typo3temp,,_assets,,_css,,_styling_afc27c3ab01f92532b1f445a9acad1ab71f3aa39.css,,q1698143073+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_media-center-article.css,,q1606127429,Mcc._ybeGr43yn.css.pagespeed.cf.RNu5z0-bTm.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\A.typo3conf,,_ext,,_news,,_Resources,,_Public,,_Css,,_news-basic.css,,q1587990556 typo3temp,,_assets,,_css,,_c1a1f32f83.css,,q1636359430 typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_bootstrap.min.css-1.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/A.typo3temp,,_assets,,_css,,_c1a1f32f83.css,,q1636359430+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_bootstrap.min.css,,q1605431146+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_swiper.min.css,,q1605431147+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_default.css,,q1688617591+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_aos.css,,q1605431146+typo3temp,,_assets,,_css,,_styling_afc27c3ab01f92532b1f445a9acad1ab71f3aa39.css,,q1698143073+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_contact-us.css,,q1607080027,Mcc.fwmNziDO2T.css.pagespeed.cf.AHYelkN6B3.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\A.typo3temp,,_assets,,_css,,_c1a1f32f83.css,,q1636359430 typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_bootstrap.min.css,,q1605431146 typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_swiper.min.cs-1.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/A.typo3temp,,_assets,,_css,,_c1a1f32f83.css,,q1636359430+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_bootstrap.min.css,,q1605431146+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_swiper.min.css,,q1605431147+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_default.css,,q1688617591+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_aos.css,,q1605431146+typo3temp,,_assets,,_css,,_styling_afc27c3ab01f92532b1f445a9acad1ab71f3aa39.css,,q1698143073+typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_partner-2.css,,q1632121009,Mcc.2rwd5pO7Cg.css.pagespeed.cf.IB6OYuupOP.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\A.typo3temp,,_assets,,_css,,_c1a1f32f83.css,,q1636359430 typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_bootstrap.min.css,,q1605431146 typo3conf,,_ext,,_aster,,_Resources,,_Public,,_css,,_swiper.min.css,.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/about-us
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\about-us.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/aetrex
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\aetrex.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/aster-secure
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\aster-secure.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/blog-main
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\blog-main.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/contact-us
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\contact-us.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/contact-us/
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/60xNxdownloadmyaster.png.pagespeed.ic.EcLPr95nBd.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\60xNxdownloadmyaster.png.pagespeed.ic.EcLPr95nBd.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/ADC_5664.JPG
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\ADC_5664.JPG
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/add-more.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\add-more.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/appstore.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\appstore.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Artboard_2_01.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Artboard_2_01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/aster-path.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\aster-path.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/aster-pharmacy-logo.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\aster-pharmacy-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/asterdonline.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\asterdonline.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/asterFacebook.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\asterFacebook.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/AsterSecure banner Image 2.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\AsterSecure banner Image 2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/AsterSecureLogo_01.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\AsterSecureLogo_01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/astertwitte.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\astertwitte.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Beauty_Icon_02.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Beauty_Icon_02.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Blog_BlueLightHomeTile_01.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Blog_BlueLightHomeTile_01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Blog_DiabetesHomeTile_02.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Blog_DiabetesHomeTile_02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Blog_HeartDiseaseHomeTile_01.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Blog_HeartDiseaseHomeTile_01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/btom-top-scrollsicon.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\btom-top-scrollsicon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/call.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\call.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/chairman_02.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\chairman_02.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/close-icon.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\close-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Component_26_-_1_01.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Component_26_-_1_01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Component_29_-_1.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Component_29_-_1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Component_30_-_1.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Component_30_-_1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Component_30_-_1_01.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Component_30_-_1_01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Component_31_-_1.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Component_31_-_1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Component_32_-_1.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Component_32_-_1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Component_32_-_1_01.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Component_32_-_1_01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Component_32_-_1_02.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Component_32_-_1_02.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Component_32_-_1_03.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Component_32_-_1_03.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/crosse.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\crosse.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/dark-next.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\dark-next.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/dark-prew.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\dark-prew.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Einstein.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Einstein.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/F1.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\F1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/F2.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\F2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/fac-nav.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\fac-nav.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/facebook.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/feather-phone.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\feather-phone.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/FMinus.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\FMinus.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/FPlus.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\FPlus.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Free-masks_17545e1e783_large.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Free-masks_17545e1e783_large.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Gandhi.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Gandhi.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/google-play-badge-logo-svgrepo-com__1_.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\google-play-badge-logo-svgrepo-com__1_.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Group_1896__2__01.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Group_1896__2__01.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Group_3323_03.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Group_3323_03.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Group_3324.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Group_3324.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/HDIcon.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\HDIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/header-whatsapp.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\header-whatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/heart.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\heart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/homenew.mp4
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\homenew.mp4
+Content Type: video/mp4
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/icon_Equipment___Homecare_02.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\icon_Equipment___Homecare_02.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/ins-nav.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\ins-nav.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/instagram-2.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\instagram-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/ionic-md-mail.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\ionic-md-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Lifestyleicon_01.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Lifestyleicon_01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/link-nav.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\link-nav.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Linkedin.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Linkedin.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/location-on.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\location-on.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/logo_03.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\logo_03.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/logo_myaster.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\logo_myaster.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Mother_Teresa.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Mother_Teresa.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Mother___Baby_Icon_02.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Mother___Baby_Icon_02.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/myaster_green_logo.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\myaster_green_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/myAster_white_logo-01.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\myAster_white_logo-01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/myAster_white_logo.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\myAster_white_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Nelson_Mandela.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Nelson_Mandela.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/next-detail.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\next-detail.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Nutrition_Icon_02.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Nutrition_Icon_02.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/optics-logo_01.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\optics-logo_01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/PersonalCare_Icon_01.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\PersonalCare_Icon_01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/pharmacy-logo_01.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\pharmacy-logo_01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/prew-page.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\prew-page.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/PW-200630_web_partner-content_aster_DCC-pharmacy-1593421468585_172ff5213ad_large.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\PW-200630_web_partner-content_aster_DCC-pharmacy-1593421468585_172ff5213ad_large.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/search.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\search.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/secure.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\secure.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/SecuredRewards.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\SecuredRewards.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/SendIcon.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\SendIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/servicedeliver-icon1_01.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\servicedeliver-icon1_01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/servicedeliver-icon2_01.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\servicedeliver-icon2_01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/servicedeliver-icon3_01.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\servicedeliver-icon3_01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/servicedeliver-icon5_01.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\servicedeliver-icon5_01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/setting.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\setting.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/SH_Zayed.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\SH_Zayed.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/SteveJobs.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\SteveJobs.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/successfully.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\successfully.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/twi-nav.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\twi-nav.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Twitter.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/WhatsApp-Image-2020-10-17-at-3.51.07-PM-large.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\WhatsApp-Image-2020-10-17-at-3.51.07-PM-large.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/whatsapp-logp.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\whatsapp-logp.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/x5-8.jpg.pagespeed.ic.fuezq1tgWN.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\x5-8.jpg.pagespeed.ic.fuezq1tgWN.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xAccurete_01.jpg.pagespeed.ic.kDN6NUL5S6.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xAccurete_01.jpg.pagespeed.ic.kDN6NUL5S6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xAccurete_02.jpg.pagespeed.ic.kDN6NUL5S6.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xAccurete_02.jpg.pagespeed.ic.kDN6NUL5S6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xAccurete_03.jpg.pagespeed.ic.kDN6NUL5S6.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xAccurete_03.jpg.pagespeed.ic.kDN6NUL5S6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xActivise_01.jpg.pagespeed.ic.gKqPCmQYLE.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xActivise_01.jpg.pagespeed.ic.gKqPCmQYLE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xActivise_02.jpg.pagespeed.ic.gKqPCmQYLE.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xActivise_02.jpg.pagespeed.ic.gKqPCmQYLE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xActivise_03.jpg.pagespeed.ic.gKqPCmQYLE.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xActivise_03.jpg.pagespeed.ic.gKqPCmQYLE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xAetrexLogo.jpg.pagespeed.ic.ipjgzKlciV.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xAetrexLogo.jpg.pagespeed.ic.ipjgzKlciV.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xArt_Naturals_01.jpg.pagespeed.ic.M9Kqbat1nd.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xArt_Naturals_01.jpg.pagespeed.ic.M9Kqbat1nd.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xArt_Naturals_02.jpg.pagespeed.ic.M9Kqbat1nd.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xArt_Naturals_02.jpg.pagespeed.ic.M9Kqbat1nd.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xArt_Naturals_03.jpg.pagespeed.ic.M9Kqbat1nd.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xArt_Naturals_03.jpg.pagespeed.ic.M9Kqbat1nd.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xaster-banner-1_01.png.pagespeed.ic.JtnOGs3cY1.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xaster-banner-1_01.png.pagespeed.ic.JtnOGs3cY1.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xAsterSecure_Left.jpg.pagespeed.ic.oUHyiJsybf.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xAsterSecure_Left.jpg.pagespeed.ic.oUHyiJsybf.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xAsterSecurse2.png.pagespeed.ic.zHYkEvT7rS.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xAsterSecurse2.png.pagespeed.ic.zHYkEvT7rS.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xAzad_r.png.pagespeed.ic.D459x5uKpk.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xAzad_r.png.pagespeed.ic.D459x5uKpk.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBackToSchool.jpg.pagespeed.ic.FZCT3-qz8o.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBackToSchool.jpg.pagespeed.ic.FZCT3-qz8o.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBack_To_School.jpg.pagespeed.ic.jhvq47MOXY.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBack_To_School.jpg.pagespeed.ic.jhvq47MOXY.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBanner-01-01_01.jpg.pagespeed.ic.1F2Q7Gfo9N.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBanner-01-01_01.jpg.pagespeed.ic.1F2Q7Gfo9N.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBeauty_C_01.jpg.pagespeed.ic.yy1WUY4ifo.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBeauty_C_01.jpg.pagespeed.ic.yy1WUY4ifo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBlog_DandruffHomeTile__1__01.jpg.pagespeed.ic.3WWaIArne8.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBlog_DandruffHomeTile__1__01.jpg.pagespeed.ic.3WWaIArne8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Annemarie_Borlind_01.jpg.pagespeed.ic.JMhkvdqKeU.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Annemarie_Borlind_01.jpg.pagespeed.ic.JMhkvdqKeU.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Annemarie_Borlind_02.jpg.pagespeed.ic.JMhkvdqKeU.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Annemarie_Borlind_02.jpg.pagespeed.ic.JMhkvdqKeU.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Annemarie_Borlind_03.jpg.pagespeed.ic.JMhkvdqKeU.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Annemarie_Borlind_03.jpg.pagespeed.ic.JMhkvdqKeU.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Beurer_01.jpg.pagespeed.ic.cwgu57cb4F.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Beurer_01.jpg.pagespeed.ic.cwgu57cb4F.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Beurer_02.jpg.pagespeed.ic.cwgu57cb4F.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Beurer_02.jpg.pagespeed.ic.cwgu57cb4F.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Beurer_03.jpg.pagespeed.ic.cwgu57cb4F.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Beurer_03.jpg.pagespeed.ic.cwgu57cb4F.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Blueberry_Naturals_01.jpg.pagespeed.ic.-6tDtcD_nF.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Blueberry_Naturals_01.jpg.pagespeed.ic.-6tDtcD_nF.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Blueberry_Naturals_02.jpg.pagespeed.ic.-6tDtcD_nF.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Blueberry_Naturals_02.jpg.pagespeed.ic.-6tDtcD_nF.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Blueberry_Naturals_03.jpg.pagespeed.ic.-6tDtcD_nF.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Blueberry_Naturals_03.jpg.pagespeed.ic.-6tDtcD_nF.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Dadosens_01.jpg.pagespeed.ic.emMJeGv-fM.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Dadosens_01.jpg.pagespeed.ic.emMJeGv-fM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Dadosens_02.jpg.pagespeed.ic.emMJeGv-fM.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Dadosens_02.jpg.pagespeed.ic.emMJeGv-fM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Dadosens_03.jpg.pagespeed.ic.emMJeGv-fM.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Dadosens_03.jpg.pagespeed.ic.emMJeGv-fM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Desert_Essence_01.jpg.pagespeed.ic.T75wcpkbk1.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Desert_Essence_01.jpg.pagespeed.ic.T75wcpkbk1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Desert_Essence_02.jpg.pagespeed.ic.T75wcpkbk1.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Desert_Essence_02.jpg.pagespeed.ic.T75wcpkbk1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Desert_Essence_03.jpg.pagespeed.ic.T75wcpkbk1.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Desert_Essence_03.jpg.pagespeed.ic.T75wcpkbk1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_LaRochePosay_01.jpg.pagespeed.ic.F2CHAdFeDX.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_LaRochePosay_01.jpg.pagespeed.ic.F2CHAdFeDX.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_LaRochePosay_02.jpg.pagespeed.ic.F2CHAdFeDX.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_LaRochePosay_02.jpg.pagespeed.ic.F2CHAdFeDX.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_LaRochePosay_03.jpg.pagespeed.ic.F2CHAdFeDX.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_LaRochePosay_03.jpg.pagespeed.ic.F2CHAdFeDX.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Omron_01.jpg.pagespeed.ic.O-TjWKExC7.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Omron_01.jpg.pagespeed.ic.O-TjWKExC7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Omron_02.jpg.pagespeed.ic.O-TjWKExC7.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Omron_02.jpg.pagespeed.ic.O-TjWKExC7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Omron_03.jpg.pagespeed.ic.O-TjWKExC7.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Omron_03.jpg.pagespeed.ic.O-TjWKExC7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Uriage_01.jpg.pagespeed.ic.us1zf8LZh5.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Uriage_01.jpg.pagespeed.ic.us1zf8LZh5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Uriage_02.jpg.pagespeed.ic.us1zf8LZh5.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Uriage_02.jpg.pagespeed.ic.us1zf8LZh5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Uriage_03.jpg.pagespeed.ic.us1zf8LZh5.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Uriage_03.jpg.pagespeed.ic.us1zf8LZh5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Vitabiotics_01.jpg.pagespeed.ic.6b44lNEaL-.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Vitabiotics_01.jpg.pagespeed.ic.6b44lNEaL-.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Vitabiotics_02.jpg.pagespeed.ic.6b44lNEaL-.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Vitabiotics_02.jpg.pagespeed.ic.6b44lNEaL-.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xBrandPages_Vitabiotics_03.jpg.pagespeed.ic.6b44lNEaL-.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xBrandPages_Vitabiotics_03.jpg.pagespeed.ic.6b44lNEaL-.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xChristian_Breton_Paris_01.jpg.pagespeed.ic.yHqxpkVeP_.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xChristian_Breton_Paris_01.jpg.pagespeed.ic.yHqxpkVeP_.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xChristian_Breton_Paris_02.jpg.pagespeed.ic.yHqxpkVeP_.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xChristian_Breton_Paris_02.jpg.pagespeed.ic.yHqxpkVeP_.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xChristian_Breton_Paris_03.jpg.pagespeed.ic.yHqxpkVeP_.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xChristian_Breton_Paris_03.jpg.pagespeed.ic.yHqxpkVeP_.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xDataBanner.jpg.pagespeed.ic.cO-5IdZ5yH.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xDataBanner.jpg.pagespeed.ic.cO-5IdZ5yH.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xDataBannerResponsive.jpg.pagespeed.ic.8ErrChWiQr.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xDataBannerResponsive.jpg.pagespeed.ic.8ErrChWiQr.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xDiabetesCare.jpg.pagespeed.ic.YFoSZMtaEK.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xDiabetesCare.jpg.pagespeed.ic.YFoSZMtaEK.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xDrGummies_01.jpg.pagespeed.ic.8MZkQvXl9A.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xDrGummies_01.jpg.pagespeed.ic.8MZkQvXl9A.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xDrGummies_02.jpg.pagespeed.ic.8MZkQvXl9A.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xDrGummies_02.jpg.pagespeed.ic.8MZkQvXl9A.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xDrGummies_03.jpg.pagespeed.ic.8MZkQvXl9A.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xDrGummies_03.jpg.pagespeed.ic.8MZkQvXl9A.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xdubai.png.pagespeed.ic.aEsIYEf3wq.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xdubai.png.pagespeed.ic.aEsIYEf3wq.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xEquipmentHomecare_01.jpg.pagespeed.ic.JJNJJ9E4H7.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xEquipmentHomecare_01.jpg.pagespeed.ic.JJNJJ9E4H7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xevoluderm_01.jpg.pagespeed.ic.ouV-bAYgOD.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xevoluderm_01.jpg.pagespeed.ic.ouV-bAYgOD.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xevoluderm_02.jpg.pagespeed.ic.ouV-bAYgOD.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xevoluderm_02.jpg.pagespeed.ic.ouV-bAYgOD.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xevoluderm_03.jpg.pagespeed.ic.ouV-bAYgOD.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xevoluderm_03.jpg.pagespeed.ic.ouV-bAYgOD.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xFreche_01.jpg.pagespeed.ic.Tfoh5PzbBs.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xFreche_01.jpg.pagespeed.ic.Tfoh5PzbBs.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xFreche_02.jpg.pagespeed.ic.Tfoh5PzbBs.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xFreche_02.jpg.pagespeed.ic.Tfoh5PzbBs.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xFreche_03.jpg.pagespeed.ic.Tfoh5PzbBs.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xFreche_03.jpg.pagespeed.ic.Tfoh5PzbBs.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xFreeHomeDelivery_Left.jpg.pagespeed.ic.--aBVs-snA.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xFreeHomeDelivery_Left.jpg.pagespeed.ic.--aBVs-snA.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xGallery_1_03.jpg.pagespeed.ic.5_URieG5zj.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xGallery_1_03.jpg.pagespeed.ic.5_URieG5zj.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xGallery_2_03.jpg.pagespeed.ic.AqwpUnPF1i.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xGallery_2_03.jpg.pagespeed.ic.AqwpUnPF1i.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xGallery_3_03.jpg.pagespeed.ic.8CSaNFiTSa.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xGallery_3_03.jpg.pagespeed.ic.8CSaNFiTSa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xGallery_4_03.jpg.pagespeed.ic.QgayhpzK0g.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xGallery_4_03.jpg.pagespeed.ic.QgayhpzK0g.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xGallery_6_03.jpg.pagespeed.ic.lli_wiVzQj.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xGallery_6_03.jpg.pagespeed.ic.lli_wiVzQj.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xGallery_7_04.jpg.pagespeed.ic.q-Tt--OuZJ.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xGallery_7_04.jpg.pagespeed.ic.q-Tt--OuZJ.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xGenexa_01.jpg.pagespeed.ic.daGMkEkFXb.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xGenexa_01.jpg.pagespeed.ic.daGMkEkFXb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xGenexa_02.jpg.pagespeed.ic.daGMkEkFXb.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xGenexa_02.jpg.pagespeed.ic.daGMkEkFXb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xGenexa_03.jpg.pagespeed.ic.daGMkEkFXb.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xGenexa_03.jpg.pagespeed.ic.daGMkEkFXb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xGlaxoSmithKline-medicine.jpg.pagespeed.ic.d7bF548dZj.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xGlaxoSmithKline-medicine.jpg.pagespeed.ic.d7bF548dZj.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xGood_Bone.jpg.pagespeed.ic.35oev24c1O.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xGood_Bone.jpg.pagespeed.ic.35oev24c1O.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xGroup,P203369.png.pagespeed.ic.KKxRG6Q7oi.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xGroup,P203369.png.pagespeed.ic.KKxRG6Q7oi.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xhealthy_Heart_Lifestyle_01.jpg.pagespeed.ic.7dsLSo2YM_.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xhealthy_Heart_Lifestyle_01.jpg.pagespeed.ic.7dsLSo2YM_.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xHeartCare.jpg.pagespeed.ic.fN9nEr5n4p.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xHeartCare.jpg.pagespeed.ic.fN9nEr5n4p.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xHome_Delivery.jpg.pagespeed.ic.73pg75Xs3N.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xHome_Delivery.jpg.pagespeed.ic.73pg75Xs3N.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xHome_Delivery_01.jpg.pagespeed.ic.73pg75Xs3N.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xHome_Delivery_01.jpg.pagespeed.ic.73pg75Xs3N.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xhonoured.png.pagespeed.ic.RZOp1gvGNT.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xhonoured.png.pagespeed.ic.RZOp1gvGNT.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xLifestyleC_01.jpg.pagespeed.ic.BNUByxcxWR.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xLifestyleC_01.jpg.pagespeed.ic.BNUByxcxWR.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xLiverCareMain.jpg.pagespeed.ic.6rreKEjfTv.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xLiverCareMain.jpg.pagespeed.ic.6rreKEjfTv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xLovea_01.jpg.pagespeed.ic.K_vEDjCpWI.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xLovea_01.jpg.pagespeed.ic.K_vEDjCpWI.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xLovea_02.jpg.pagespeed.ic.K_vEDjCpWI.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xLovea_02.jpg.pagespeed.ic.K_vEDjCpWI.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xLovea_03.jpg.pagespeed.ic.K_vEDjCpWI.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xLovea_03.jpg.pagespeed.ic.K_vEDjCpWI.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xLoyalty_Programme.jpg.pagespeed.ic.2tiN13l1iP.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xLoyalty_Programme.jpg.pagespeed.ic.2tiN13l1iP.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xLoyalty_Programme_01.jpg.pagespeed.ic.2tiN13l1iP.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xLoyalty_Programme_01.jpg.pagespeed.ic.2tiN13l1iP.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xMain,P20Banner,P20Image,P201.png.pagespeed.ic.QgnZ9Jt8dC.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xMain,P20Banner,P20Image,P201.png.pagespeed.ic.QgnZ9Jt8dC.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xman-opticals.png.pagespeed.ic.RkozYQu1V1.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xman-opticals.png.pagespeed.ic.RkozYQu1V1.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xMask,P20Group,P20569.png.pagespeed.ic.RZg6c_kNCA.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xMask,P20Group,P20569.png.pagespeed.ic.RZg6c_kNCA.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup14.png.pagespeed.ic.54qgJDcnPK.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup14.png.pagespeed.ic.54qgJDcnPK.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup15.png.pagespeed.ic.mtN1PCVFp1.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup15.png.pagespeed.ic.mtN1PCVFp1.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup26_01.png.pagespeed.ic.RMsI_q9lN-.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup26_01.png.pagespeed.ic.RMsI_q9lN-.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup27_03.png.pagespeed.ic.NwqxiuWBc9.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup27_03.png.pagespeed.ic.NwqxiuWBc9.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup27_04.png.pagespeed.ic.NwqxiuWBc9.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup27_04.png.pagespeed.ic.NwqxiuWBc9.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup27_05.png.pagespeed.ic.NwqxiuWBc9.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup27_05.png.pagespeed.ic.NwqxiuWBc9.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup28_03.png.pagespeed.ic.Wm7G2L-hhL.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup28_03.png.pagespeed.ic.Wm7G2L-hhL.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup28_04.png.pagespeed.ic.Wm7G2L-hhL.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup28_04.png.pagespeed.ic.Wm7G2L-hhL.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup28_06.png.pagespeed.ic.Wm7G2L-hhL.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup28_06.png.pagespeed.ic.Wm7G2L-hhL.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup29_03.png.pagespeed.ic.eFakQhQyib.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup29_03.png.pagespeed.ic.eFakQhQyib.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup29_04.png.pagespeed.ic.eFakQhQyib.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup29_04.png.pagespeed.ic.eFakQhQyib.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup29_05.png.pagespeed.ic.eFakQhQyib.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup29_05.png.pagespeed.ic.eFakQhQyib.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup30_05.png.pagespeed.ic.CTNQEDi8Vw.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup30_05.png.pagespeed.ic.CTNQEDi8Vw.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup30_06.png.pagespeed.ic.CTNQEDi8Vw.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup30_06.png.pagespeed.ic.CTNQEDi8Vw.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup30_08.png.pagespeed.ic.CTNQEDi8Vw.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup30_08.png.pagespeed.ic.CTNQEDi8Vw.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup31_03.png.pagespeed.ic._8oskgp1hJ.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup31_03.png.pagespeed.ic._8oskgp1hJ.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup31_04.png.pagespeed.ic._8oskgp1hJ.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup31_04.png.pagespeed.ic._8oskgp1hJ.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup31_05.png.pagespeed.ic._8oskgp1hJ.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup31_05.png.pagespeed.ic._8oskgp1hJ.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup32_03.png.pagespeed.ic.EH16Icw27d.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup32_03.png.pagespeed.ic.EH16Icw27d.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup32_04.png.pagespeed.ic.EH16Icw27d.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup32_04.png.pagespeed.ic.EH16Icw27d.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup32_06.png.pagespeed.ic.EH16Icw27d.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup32_06.png.pagespeed.ic.EH16Icw27d.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup39.jpg.pagespeed.ic.ttevbrl2y6.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup39.jpg.pagespeed.ic.ttevbrl2y6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xmaskgroup40.png.pagespeed.ic.IVDQ8LnzWL.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xmaskgroup40.png.pagespeed.ic.IVDQ8LnzWL.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xMother___Baby_C_02.jpg.pagespeed.ic.DWIxL34hJ1.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xMother___Baby_C_02.jpg.pagespeed.ic.DWIxL34hJ1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xNaobay_01.jpg.pagespeed.ic.CrgF_yxo9m.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xNaobay_01.jpg.pagespeed.ic.CrgF_yxo9m.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xNaobay_02.jpg.pagespeed.ic.CrgF_yxo9m.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xNaobay_02.jpg.pagespeed.ic.CrgF_yxo9m.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xNaobay_03.jpg.pagespeed.ic.CrgF_yxo9m.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xNaobay_03.jpg.pagespeed.ic.CrgF_yxo9m.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xNatura_Nectar_01.jpg.pagespeed.ic.EbbJ3hYawq.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xNatura_Nectar_01.jpg.pagespeed.ic.EbbJ3hYawq.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xNatura_Nectar_02.jpg.pagespeed.ic.EbbJ3hYawq.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xNatura_Nectar_02.jpg.pagespeed.ic.EbbJ3hYawq.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xNatura_Nectar_03.jpg.pagespeed.ic.EbbJ3hYawq.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xNatura_Nectar_03.jpg.pagespeed.ic.EbbJ3hYawq.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xNatura_Nectar_04.jpg.pagespeed.ic.EbbJ3hYawq.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xNatura_Nectar_04.jpg.pagespeed.ic.EbbJ3hYawq.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xNatura_Nectar_05.jpg.pagespeed.ic.EbbJ3hYawq.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xNatura_Nectar_05.jpg.pagespeed.ic.EbbJ3hYawq.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xNature_s_Answer_01.jpg.pagespeed.ic.SzJBGOQKwz.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xNature_s_Answer_01.jpg.pagespeed.ic.SzJBGOQKwz.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xNature_s_Answer_02.jpg.pagespeed.ic.SzJBGOQKwz.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xNature_s_Answer_02.jpg.pagespeed.ic.SzJBGOQKwz.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xNature_s_Answer_03.jpg.pagespeed.ic.SzJBGOQKwz.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xNature_s_Answer_03.jpg.pagespeed.ic.SzJBGOQKwz.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xNewsroom_Main_Banner.jpg.pagespeed.ic.hamUnIxQb4.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xNewsroom_Main_Banner.jpg.pagespeed.ic.hamUnIxQb4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xNutrition_C_01.jpg.pagespeed.ic.x_m9fu_wXN.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xNutrition_C_01.jpg.pagespeed.ic.x_m9fu_wXN.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xonline_pharmacy_image_1__01.png.pagespeed.ic.FkeDbpwStp.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xonline_pharmacy_image_1__01.png.pagespeed.ic.FkeDbpwStp.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xonline_pharmacy_image_2_.png.pagespeed.ic.uESJNnCT7t.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xonline_pharmacy_image_2_.png.pagespeed.ic.uESJNnCT7t.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xOnline_Services.jpg.pagespeed.ic.z2GvTfFY6X.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xOnline_Services.jpg.pagespeed.ic.z2GvTfFY6X.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xOnline_Services_01.jpg.pagespeed.ic.z2GvTfFY6X.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xOnline_Services_01.jpg.pagespeed.ic.z2GvTfFY6X.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xourservices_01.png.pagespeed.ic.J6BLZ-IUGQ.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xourservices_01.png.pagespeed.ic.J6BLZ-IUGQ.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xPartner-Page-Banner--860-x-350--2_01.jpg.pagespeed.ic.L-KRRmuAMA.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xPartner-Page-Banner--860-x-350--2_01.jpg.pagespeed.ic.L-KRRmuAMA.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xPersonal_Care_C_02.jpg.pagespeed.ic.KTKi7x7STc.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xPersonal_Care_C_02.jpg.pagespeed.ic.KTKi7x7STc.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xPharmaline_01.jpg.pagespeed.ic.1zpNuoLVfG.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xPharmaline_01.jpg.pagespeed.ic.1zpNuoLVfG.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xPharmaline_02.jpg.pagespeed.ic.1zpNuoLVfG.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xPharmaline_02.jpg.pagespeed.ic.1zpNuoLVfG.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xPharmaline_03.jpg.pagespeed.ic.1zpNuoLVfG.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xPharmaline_03.jpg.pagespeed.ic.1zpNuoLVfG.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xPriorin_01.jpg.pagespeed.ic.DRnlcE0Un9.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xPriorin_01.jpg.pagespeed.ic.DRnlcE0Un9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xPriorin_02.jpg.pagespeed.ic.DRnlcE0Un9.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xPriorin_02.jpg.pagespeed.ic.DRnlcE0Un9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xPriorin_03.jpg.pagespeed.ic.DRnlcE0Un9.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xPriorin_03.jpg.pagespeed.ic.DRnlcE0Un9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xretail1_01.jpg.pagespeed.ic.NLHSvYptDd.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xretail1_01.jpg.pagespeed.ic.NLHSvYptDd.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xretail1_02.jpg.pagespeed.ic.NLHSvYptDd.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xretail1_02.jpg.pagespeed.ic.NLHSvYptDd.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xretail2_01.jpg.pagespeed.ic.9qQzPZuYcy.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xretail2_01.jpg.pagespeed.ic.9qQzPZuYcy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xretail2_02.jpg.pagespeed.ic.9qQzPZuYcy.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xretail2_02.jpg.pagespeed.ic.9qQzPZuYcy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xretail3_01.jpg.pagespeed.ic.Yee45eCmw0.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xretail3_01.jpg.pagespeed.ic.Yee45eCmw0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xretail3_02.jpg.pagespeed.ic.Yee45eCmw0.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xretail3_02.jpg.pagespeed.ic.Yee45eCmw0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xretail4_01.jpg.pagespeed.ic.XrkhX_werr.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xretail4_01.jpg.pagespeed.ic.XrkhX_werr.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xretail4_02.jpg.pagespeed.ic.XrkhX_werr.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xretail4_02.jpg.pagespeed.ic.XrkhX_werr.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xretail5_01.jpg.pagespeed.ic.e1UudY-aF8.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xretail5_01.jpg.pagespeed.ic.e1UudY-aF8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xretail5_02.jpg.pagespeed.ic.e1UudY-aF8.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xretail5_02.jpg.pagespeed.ic.e1UudY-aF8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xretail6_01.jpg.pagespeed.ic.ddac5TXz9r.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xretail6_01.jpg.pagespeed.ic.ddac5TXz9r.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xretail6_02.jpg.pagespeed.ic.ddac5TXz9r.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xretail6_02.jpg.pagespeed.ic.ddac5TXz9r.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xRossmax_01.jpg.pagespeed.ic.gf1m9wqC4-.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xRossmax_01.jpg.pagespeed.ic.gf1m9wqC4-.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xRossmax_02.jpg.pagespeed.ic.gf1m9wqC4-.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xRossmax_02.jpg.pagespeed.ic.gf1m9wqC4-.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xRossmax_03.jpg.pagespeed.ic.gf1m9wqC4-.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xRossmax_03.jpg.pagespeed.ic.gf1m9wqC4-.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xSecureOnlinenew.png.pagespeed.ic.GH6tjvziOq.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xSecureOnlinenew.png.pagespeed.ic.GH6tjvziOq.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xSecureOpticsne.png.pagespeed.ic.xPDvJDEei2.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xSecureOpticsne.png.pagespeed.ic.xPDvJDEei2.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xSecurePharmacynew.png.pagespeed.ic.CKUtG1Sxlb.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xSecurePharmacynew.png.pagespeed.ic.CKUtG1Sxlb.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xservicedeliver-icon4.png.pagespeed.ic.h0prWnSmhc.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xservicedeliver-icon4.png.pagespeed.ic.h0prWnSmhc.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xSolaray_01.jpg.pagespeed.ic.1OzD0CcIYa.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xSolaray_01.jpg.pagespeed.ic.1OzD0CcIYa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xSolaray_02.jpg.pagespeed.ic.1OzD0CcIYa.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xSolaray_02.jpg.pagespeed.ic.1OzD0CcIYa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xSolaray_03.jpg.pagespeed.ic.1OzD0CcIYa.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xSolaray_03.jpg.pagespeed.ic.1OzD0CcIYa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xTC_image_1.png.pagespeed.ic.WwkeMI4t2m.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xTC_image_1.png.pagespeed.ic.WwkeMI4t2m.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xTC_TEXT.png.pagespeed.ic.Ju4hODdkZl.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xTC_TEXT.png.pagespeed.ic.Ju4hODdkZl.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xTeleconsultation_01.png.pagespeed.ic.i6JpoPZSjp.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xTeleconsultation_01.png.pagespeed.ic.i6JpoPZSjp.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xTeleconsultation_02.png.pagespeed.ic.i6JpoPZSjp.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xTeleconsultation_02.png.pagespeed.ic.i6JpoPZSjp.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/xToughHair.jpg.pagespeed.ic.afs12jIAuI.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\xToughHair.jpg.pagespeed.ic.afs12jIAuI.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/you-nav.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\you-nav.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/user_upload/Youtube.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\user_upload\Youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/fileadmin/_processed_/0/f/csm_Newsroom_Main_Banner_77910583b0.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\_processed_\0\f\csm_Newsroom_Main_Banner_77910583b0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/_processed_/2/8/csm_WhatsApp-Image-2020-10-17-at-3.51.07-PM-large_2175fd12fc.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\_processed_\2\8\csm_WhatsApp-Image-2020-10-17-at-3.51.07-PM-large_2175fd12fc.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/_processed_/4/9/csm_ADC_5664_9132b7b23f.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\_processed_\4\9\csm_ADC_5664_9132b7b23f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/fileadmin/_processed_/9/d/csm_Free-masks_17545e1e783_large_7bcc801830.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\fileadmin\_processed_\9\d\csm_Free-masks_17545e1e783_large_7bcc801830.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\index.htm
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/css/index.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\css\index.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/GothamNarrow-Bold.eot
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\GothamNarrow-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/GothamNarrow-Bold.eot?
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\GothamNarrow-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/GothamNarrow-Bold.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\GothamNarrow-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/GothamNarrow-Bold.ttf
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\GothamNarrow-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/GothamNarrow-Bold.woff
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\GothamNarrow-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/GothamNarrow-Bold.woff2
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\GothamNarrow-Bold.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/GothamNarrow-Book.eot
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\GothamNarrow-Book.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/GothamNarrow-Book.eot?
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\GothamNarrow-Book-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/GothamNarrow-Book.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\GothamNarrow-Book.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/GothamNarrow-Book.ttf
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\GothamNarrow-Book.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/GothamNarrow-Book.woff
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\GothamNarrow-Book.woff
+Content Type: application/font-woff
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/GothamNarrow-Book.woff2
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\GothamNarrow-Book.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/GothamNarrow-Medium.eot
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\GothamNarrow-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/GothamNarrow-Medium.eot?
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\GothamNarrow-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/GothamNarrow-Medium.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\GothamNarrow-Medium.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/GothamNarrow-Medium.ttf
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\GothamNarrow-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/GothamNarrow-Medium.woff
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\GothamNarrow-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/GothamNarrow-Medium.woff2
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\GothamNarrow-Medium.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/fonts/stylesheet.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\fonts\stylesheet.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/arrow-left.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\arrow-left.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/arrow-right.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\arrow-right.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/aster_mobile_logo.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\aster_mobile_logo.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/Banner.webp
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\Banner.webp
+Content Type: image/webp
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/buildings-full_view.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\buildings-full_view.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/Canvas.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\Canvas.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/CardImage1.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\CardImage1.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/CardImage2.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\CardImage2.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/CardImage3.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\CardImage3.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/CardPhoto1.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\CardPhoto1.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/CardPhoto2.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\CardPhoto2.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/CardPhoto3.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\CardPhoto3.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/free-shipping-icon.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\free-shipping-icon.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/NextToYou.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\NextToYou.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/nomin.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\nomin.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/secure-payment.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\secure-payment.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/SkyLine.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\SkyLine.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/TopBannerLogo.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\TopBannerLogo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/images/whatsappIcon.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\images\whatsappIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/assets/js/index.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\assets\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/slick-1.8.1/slick/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\slick-1.8.1\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/slick-1.8.1/slick/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\slick-1.8.1\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/slick-1.8.1/slick/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\slick-1.8.1\slick\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/slick-1.8.1/slick/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\slick-1.8.1\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/slick-1.8.1/slick/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\slick-1.8.1\slick\fonts\slick.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/slick-1.8.1/slick/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\slick-1.8.1\slick\fonts\slick.woff
+Content Type: application/font-woff
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/slick-1.8.1/slick/slick-theme.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\slick-1.8.1\slick\slick-theme.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/slick-1.8.1/slick/slick.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\slick-1.8.1\slick\slick.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/slick-1.8.1/slick/slick.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\slick-1.8.1\slick\slick.js
+Content Type: application/javascript
+
+Uri: https://www.asterpharmacy.ae/free-home-delivery/slick-1.8.1/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\free-home-delivery\slick-1.8.1\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://www.asterpharmacy.ae/newsroom
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\newsroom.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/newsroom/detail/aster-pharmacy-bags-the-skea-awards-for-the-second-time
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\newsroom\detail\aster-pharmacy-bags-the-skea-awards-for-the-second-time.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/newsroom/detail/campaign-of-care
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\newsroom\detail\campaign-of-care.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/newsroom/detail/contactless-delivery-of-good-health-to-your-home
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\newsroom\detail\contactless-delivery-of-good-health-to-your-home.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/newsroom/detail/free-boxes-of-face-masks
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\newsroom\detail\free-boxes-of-face-masks.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/newsroom/detail/free-home-delivery-on-whatsapp
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\newsroom\detail\free-home-delivery-on-whatsapp.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/newsroom/detail/giving-away-free-masks
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\newsroom\detail\giving-away-free-masks.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/newsroom/detail/medication-at-cost-price-amid-covid-19
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\newsroom\detail\medication-at-cost-price-amid-covid-19.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/newsroom/detail/medicines-at-cost-price
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\newsroom\detail\medicines-at-cost-price.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/partner
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\partner.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/partner-registration
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\partner-registration.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/partner/franchisee-evaluation
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\partner\franchisee-evaluation.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/product-categories
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\product-categories.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/registered-partner
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\registered-partner.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/services
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\services.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/sitemap
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\sitemap.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/store-locator
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\store-locator.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/store-locator?area=&country=&homedelivary=off&hour=off&cHash=fd2f761419dd9e84a2b65dcb08b19726
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\store-locator-1.html
+Content Type: text/html
+
+Uri: https://www.asterpharmacy.ae/typo3conf,_ext,_news,_Resources,_Public,_Css,_news-basic.css,q1587990556+typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430+typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146+typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147+typo3conf,_ext,_aster,_Resources,_Public,_css,_default.css,q1688617591+typo3conf,_ext,_aster,_Resources,_Public,_css,_aos.css,q1605431146+typo3temp,_assets,_css,_styling_afc27c3ab01f92532b1f445a9acad1ab71f3aa39.css,q1698143073+typo3conf,_ext,_aster,_Resources,_Public,_css,_media-center-article.css,q1606127429.pagespeed.cc._ybeGr43yn.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf,_ext,_news,_Resources,_Public,_Css,_news-basic.css,q1587990556 typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430 typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146 typo3c-1.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/typo3conf,_ext,_news,_Resources,_Public,_Css,_news-basic.css,q1587990556+typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430+typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146+typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147+typo3conf,_ext,_aster,_Resources,_Public,_css,_default.css,q1688617591+typo3conf,_ext,_aster,_Resources,_Public,_css,_aos.css,q1605431146+typo3temp,_assets,_css,_styling_afc27c3ab01f92532b1f445a9acad1ab71f3aa39.css,q1698143073+typo3conf,_ext,_aster,_Resources,_Public,_css,_media-center.css,q1605780121.pagespeed.cc.SFnkrAo9Ti.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf,_ext,_news,_Resources,_Public,_Css,_news-basic.css,q1587990556 typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430 typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146 typo3con.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster,_Resources,_Public,_js,_additional-methods.min.js,q1605431169+aster,_Resources,_Public,_js,_api.js,q1605431171+aster,_Resources,_Public,_js,_newscustom.js,q1605350028+resources,_Resources,_Public,_js,_share.js,q1606027669+resources,_Resources,_Public,_js,_bloglist.js,q1700473693+aster,_Resources,_Public,_js,_header-ham.js,q1608029481+aster,_Resources,_Public,_js,_product.js,q1694595188.pagespeed.jc.dhLmm5RLnr.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster,_Resources,_Public,_js,_additional-methods.min.js,q1605431169 aster,_Resources,_Public,_js,_api.js,q1605431171 aster,_Resources,_Public,_js,_newscustom.js,q1605350028 resources,_Resources,-2.js
+Content Type: application/javascript
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster,_Resources,_Public,_js,_additional-methods.min.js,q1605431169+aster,_Resources,_Public,_js,_api.js,q1605431171+aster,_Resources,_Public,_js,_newscustom.js,q1605350028+resources,_Resources,_Public,_js,_share.js,q1606027669+resources,_Resources,_Public,_js,_bloglist.js,q1700473693+aster,_Resources,_Public,_js,_header-ham.js,q1608029481+aster,_Resources,_Public,_js,_services-scroll.js,q1610604784.pagespeed.jc.jAf8Zt4X55.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster,_Resources,_Public,_js,_additional-methods.min.js,q1605431169 aster,_Resources,_Public,_js,_api.js,q1605431171 aster,_Resources,_Public,_js,_newscustom.js,q1605350028 resources,_Resources,-1.js
+Content Type: application/javascript
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster,_Resources,_Public,_js,_additional-methods.min.js,q1605431169+aster,_Resources,_Public,_js,_api.js,q1605431171+aster,_Resources,_Public,_js,_newscustom.js,q1605350028+resources,_Resources,_Public,_js,_share.js,q1606027669+resources,_Resources,_Public,_js,_bloglist.js,q1700473693+aster,_Resources,_Public,_js,_header-ham.js,q1608029481.pagespeed.jc.LkOE5LvNUf.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster,_Resources,_Public,_js,_additional-methods.min.js,q1605431169 aster,_Resources,_Public,_js,_api.js,q1605431171 aster,_Resources,_Public,_js,_newscustom.js,q1605350028 resources,_Resources,_P.js
+Content Type: application/javascript
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/fonts/IvyJournal-Italic.ttf
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\fonts\IvyJournal-Italic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/fonts/IvyJournal-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\fonts\IvyJournal-SemiBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/fonts/Lato-Black.ttf
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\fonts\Lato-Black.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/fonts/Lato-Bold.ttf
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\fonts\Lato-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/fonts/Lato-Light.ttf
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\fonts\Lato-Light.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/fonts/Lato-Regular.ttf
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\fonts\Lato-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/fonts/Poppins-Regular.ttf
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\fonts\Poppins-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/fonts/Raleway-Bold.ttf
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\fonts\Raleway-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/image/black-down.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\image\black-down.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/image/next-button.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\image\next-button.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/image/prev-button.svg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\image\prev-button.svg
+Content Type: image/svg+xml
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/images/favicon.ico
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/js/aos.js,q1605431171+infiniteslidev2.js,q1606049727.pagespeed.jc.VdZl7i1IKE.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\js\aos.js,q1605431171 infiniteslidev2.js,q1606049727.pagespeed.jc.VdZl7i1IKE.js
+Content Type: application/javascript
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/js/bootstrap.min.js,q1605431171+jquery.validate.min.js,q1605431171.pagespeed.jc.cjM1kHmyzD.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\js\bootstrap.min.js,q1605431171 jquery.validate.min.js,q1605431171.pagespeed.jc.cjM1kHmyzD.js
+Content Type: application/javascript
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/js/common.js,q1688454934.pagespeed.jm.Il289rGu8Z.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\js\common.js,q1688454934.pagespeed.jm.Il289rGu8Z.js
+Content Type: application/javascript
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/js/jquery-ui.min.js,q1605431172.pagespeed.jm.frpMaULqmy.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\js\jquery-ui.min.js,q1605431172.pagespeed.jm.frpMaULqmy.js
+Content Type: application/javascript
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/js/jquery.min.js,q1605431171.pagespeed.jm.i6FmF6RqXu.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\js\jquery.min.js,q1605431171.pagespeed.jm.i6FmF6RqXu.js
+Content Type: application/javascript
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/js/owl.carousel.js,q1587990243.pagespeed.jm.hTciP44AsQ.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\js\owl.carousel.js,q1587990243.pagespeed.jm.hTciP44AsQ.js
+Content Type: application/javascript
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/aster/Resources/Public/js/swiper.min.js,q1605431172.pagespeed.jm.Iblwgci_7_.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\aster\Resources\Public\js\swiper.min.js,q1605431172.pagespeed.jm.Iblwgci_7_.js
+Content Type: application/javascript
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/news/Resources/Public/Images/128x128xdummy-preview-image.png.pagespeed.ic.iPyQtkhH4A.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\news\Resources\Public\Images\128x128xdummy-preview-image.png.pagespeed.ic.iPyQtkhH4A.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/news/Resources/Public/Images/192x192xdummy-preview-image.png.pagespeed.ic.x8-3Y0YFCL.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\news\Resources\Public\Images\192x192xdummy-preview-image.png.pagespeed.ic.x8-3Y0YFCL.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/news/Resources/Public/Images/256x256xdummy-preview-image.png.pagespeed.ic.PfvqhJt6Wi.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\news\Resources\Public\Images\256x256xdummy-preview-image.png.pagespeed.ic.PfvqhJt6Wi.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/news/Resources/Public/Images/384x384xdummy-preview-image.png.pagespeed.ic.ep5th8-1jc.jpg
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\news\Resources\Public\Images\384x384xdummy-preview-image.png.pagespeed.ic.ep5th8-1jc.jpg
+Content Type: image/jpeg
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/news/Resources/Public/Images/xdummy-preview-image.png.pagespeed.ic.Wdqz8whvlI.png
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\news\Resources\Public\Images\xdummy-preview-image.png.pagespeed.ic.Wdqz8whvlI.png
+Content Type: image/png
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/powermail/Resources/Public/JavaScript/Libraries,_parsley.min.js,q1587990745+Powermail,_Form.min.js,q1587990742.pagespeed.jc.sjMLs70Tha.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\powermail\Resources\Public\JavaScript\Libraries,_parsley.min.js,q1587990745 Powermail,_Form.min.js,q1587990742.pagespeed.jc.sjMLs70Tha.js
+Content Type: application/javascript
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/resources,_Resources,_Public,_js,_asteroptices.js,q1622027724+powermail,_Resources,_Public,_JavaScript,_Libraries,_parsley.min.js,q1587990745+powermail,_Resources,_Public,_JavaScript,_Powermail,_Form.min.js,q1587990742.pagespeed.jc.zuMeCtvB_f.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\resources,_Resources,_Public,_js,_asteroptices.js,q1622027724 powermail,_Resources,_Public,_JavaScript,_Libraries,_parsley.min.js,q1587990745 powermail,_Resources,_Public,_JavaScript,_Powermail,_F.js
+Content Type: application/javascript
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/resources,_Resources,_Public,_js,_resources.js,q1626614108+aster,_Resources,_Public,_js,_homeschema.js,q1635686042+powermail,_Resources,_Public,_JavaScript,_Libraries,_parsley.min.js,q1587990745+powermail,_Resources,_Public,_JavaScript,_Powermail,_Form.min.js,q1587990742.pagespeed.jc.8JNtqfnne9.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\resources,_Resources,_Public,_js,_resources.js,q1626614108 aster,_Resources,_Public,_js,_homeschema.js,q1635686042 powermail,_Resources,_Public,_JavaScript,_Libraries,_parsley.min.js,q1587990745 p.js
+Content Type: application/javascript
+
+Uri: https://www.asterpharmacy.ae/typo3conf/ext/resources,_Resources,_Public,_js,_resources.js,q1626614108+powermail,_Resources,_Public,_JavaScript,_Libraries,_parsley.min.js,q1587990745+powermail,_Resources,_Public,_JavaScript,_Powermail,_Form.min.js,q1587990742.pagespeed.jc.YL9xUtWCLs.js
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3conf\ext\resources,_Resources,_Public,_js,_resources.js,q1626614108 powermail,_Resources,_Public,_JavaScript,_Libraries,_parsley.min.js,q1587990745 powermail,_Resources,_Public,_JavaScript,_Powermail,_Form.js
+Content Type: application/javascript
+
+Uri: https://www.asterpharmacy.ae/typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430+typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146+typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147+typo3conf,_ext,_aster,_Resources,_Public,_css,_default.css,q1688617591+typo3conf,_ext,_aster,_Resources,_Public,_css,_aos.css,q1605431146+typo3temp,_assets,_css,_styling_afc27c3ab01f92532b1f445a9acad1ab71f3aa39.css,q1698143073+typo3conf,_ext,_aster,_Resources,_Public,_css,_about-us.css,q1688389194.pagespeed.cc.-iIoEoI5LM.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430 typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146 typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147 typo3-1.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430+typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146+typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147+typo3conf,_ext,_aster,_Resources,_Public,_css,_default.css,q1688617591+typo3conf,_ext,_aster,_Resources,_Public,_css,_aos.css,q1605431146+typo3temp,_assets,_css,_styling_afc27c3ab01f92532b1f445a9acad1ab71f3aa39.css,q1698143073+typo3conf,_ext,_aster,_Resources,_Public,_css,_aster-locator.css,q1622018847.pagespeed.cc.ROhUplKwCT.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430 typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146 typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147 typo3-8.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430+typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146+typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147+typo3conf,_ext,_aster,_Resources,_Public,_css,_default.css,q1688617591+typo3conf,_ext,_aster,_Resources,_Public,_css,_aos.css,q1605431146+typo3temp,_assets,_css,_styling_afc27c3ab01f92532b1f445a9acad1ab71f3aa39.css,q1698143073+typo3conf,_ext,_aster,_Resources,_Public,_css,_aster-secure.css,q1641882240+typo3conf,_ext,_aster,_Resources,_Public,_css,_update.css,q1644416199.pagespeed.cc.G4lbikLkeq.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430 typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146 typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147 typo3co.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430+typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146+typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147+typo3conf,_ext,_aster,_Resources,_Public,_css,_default.css,q1688617591+typo3conf,_ext,_aster,_Resources,_Public,_css,_aos.css,q1605431146+typo3temp,_assets,_css,_styling_afc27c3ab01f92532b1f445a9acad1ab71f3aa39.css,q1698143073+typo3conf,_ext,_aster,_Resources,_Public,_css,_blog-main.css,q1668155246.pagespeed.cc.H9Arh6A6dH.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430 typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146 typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147 typo3-6.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430+typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146+typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147+typo3conf,_ext,_aster,_Resources,_Public,_css,_default.css,q1688617591+typo3conf,_ext,_aster,_Resources,_Public,_css,_aos.css,q1605431146+typo3temp,_assets,_css,_styling_afc27c3ab01f92532b1f445a9acad1ab71f3aa39.css,q1698143073+typo3conf,_ext,_aster,_Resources,_Public,_css,_contact-us.css,q1607080027.pagespeed.cc.fwmNziDO2T.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430 typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146 typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147 typo3-7.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430+typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146+typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147+typo3conf,_ext,_aster,_Resources,_Public,_css,_default.css,q1688617591+typo3conf,_ext,_aster,_Resources,_Public,_css,_aos.css,q1605431146+typo3temp,_assets,_css,_styling_afc27c3ab01f92532b1f445a9acad1ab71f3aa39.css,q1698143073+typo3conf,_ext,_aster,_Resources,_Public,_css,_our-services.css,q1688542760.pagespeed.cc.4lLeCNosI-.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430 typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146 typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147 typo3-2.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430+typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146+typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147+typo3conf,_ext,_aster,_Resources,_Public,_css,_default.css,q1688617591+typo3conf,_ext,_aster,_Resources,_Public,_css,_aos.css,q1605431146+typo3temp,_assets,_css,_styling_afc27c3ab01f92532b1f445a9acad1ab71f3aa39.css,q1698143073+typo3conf,_ext,_aster,_Resources,_Public,_css,_owl.carousel.min.css,q1606301796+typo3conf,_ext,_aster,_Resources,_Public,_css,_owl.theme.default.min.css,q1606301802+typo3conf,_ext,_aster,_Resources,_Public,_css,_product-categories.css,q1700468756.pagespeed.cc.st2L6WH5i_.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430 typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146 typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147 typo3-4.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430+typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146+typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147+typo3conf,_ext,_aster,_Resources,_Public,_css,_default.css,q1688617591+typo3conf,_ext,_aster,_Resources,_Public,_css,_aos.css,q1605431146+typo3temp,_assets,_css,_styling_afc27c3ab01f92532b1f445a9acad1ab71f3aa39.css,q1698143073+typo3conf,_ext,_aster,_Resources,_Public,_css,_partner-2.css,q1632121009.pagespeed.cc.2rwd5pO7Cg.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430 typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146 typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147 typo3-9.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430+typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146+typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147+typo3conf,_ext,_aster,_Resources,_Public,_css,_default.css,q1688617591+typo3conf,_ext,_aster,_Resources,_Public,_css,_aos.css,q1605431146+typo3temp,_assets,_css,_styling_afc27c3ab01f92532b1f445a9acad1ab71f3aa39.css,q1698143073+typo3conf,_ext,_aster,_Resources,_Public,_css,_partner-already-registered.css,q1605431147.pagespeed.cc.vQqnd2uIDD.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430 typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146 typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147 typo-10.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430+typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146+typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147+typo3conf,_ext,_aster,_Resources,_Public,_css,_default.css,q1688617591+typo3conf,_ext,_aster,_Resources,_Public,_css,_aos.css,q1605431146+typo3temp,_assets,_css,_styling_afc27c3ab01f92532b1f445a9acad1ab71f3aa39.css,q1698143073+typo3conf,_ext,_aster,_Resources,_Public,_css,_partner.css,q1606066362.pagespeed.cc.Df2gU6PiM1.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430 typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146 typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147 typo3-5.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430+typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146+typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147+typo3conf,_ext,_aster,_Resources,_Public,_css,_default.css,q1688617591+typo3conf,_ext,_aster,_Resources,_Public,_css,_aos.css,q1605431146+typo3temp,_assets,_css,_styling_afc27c3ab01f92532b1f445a9acad1ab71f3aa39.css,q1698143073+typo3conf,_ext,_aster,_Resources,_Public,_css,_store-locator.css,q1606051326.pagespeed.cc.ROhUplKwCT.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430 typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146 typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147 typo3-3.css
+Content Type: text/css
+
+Uri: https://www.asterpharmacy.ae/typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430+typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146+typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147+typo3conf,_ext,_aster,_Resources,_Public,_css,_default.css,q1688617591+typo3conf,_ext,_aster,_Resources,_Public,_css,_aos.css,q1605431146+typo3temp,_assets,_css,_styling_afc27c3ab01f92532b1f445a9acad1ab71f3aa39.css,q1698143073.pagespeed.cc.D8wI8KAxqV.css
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\typo3temp,_assets,_css,_c1a1f32f83.css,q1636359430 typo3conf,_ext,_aster,_Resources,_Public,_css,_bootstrap.min.css,q1605431146 typo3conf,_ext,_aster,_Resources,_Public,_css,_swiper.min.css,q1605431147 typo-11.css
+Content Type: text/css
+
+Uri: https://www.google.com/recaptcha/api.js?render=6Ldmd3klAAAAAG9T6vK7WMlzAG2iZKlOihA_RZ60
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-355186364
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\gtag\js-1
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=DC-10626249
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\gtag\js-2
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-145094631-1
+File Name: C:\Downloaded Web Sites\www.asterpharmacy.ae\gtag\js
+Content Type: application/javascript
+
